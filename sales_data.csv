@@ -1,0 +1,21 @@
+order_id,order_date,customer_name,region,product,category,quantity,unit_price,total_amount
+1001,2026-01-05,Anita Rao,South,Wireless Mouse,Electronics,3,799,2397
+1002,2026-01-06,Vikram Shah,West,Office Chair,Furniture,1,5499,5499
+1003,2026-01-08,Priya Nair,South,Notebook Pack,Stationery,10,120,1200
+1004,2026-01-10,Rahul Mehta,North,Laptop Stand,Electronics,2,1299,2598
+1005,2026-01-12,Sara Khan,East,Desk Lamp,Furniture,4,899,3596
+1006,2026-01-15,Anita Rao,South,Wireless Mouse,Electronics,1,799,799
+1007,2026-01-18,Deepak Verma,North,Bluetooth Speaker,Electronics,2,2199,4398
+1008,2026-01-20,Priya Nair,South,Office Chair,Furniture,1,5499,5499
+1009,2026-01-22,Meera Iyer,West,Notebook Pack,Stationery,15,120,1800
+1010,2026-01-25,Vikram Shah,West,Desk Lamp,Furniture,2,899,1798
+1011,2026-02-02,Rahul Mehta,North,Wireless Mouse,Electronics,5,799,3995
+1012,2026-02-05,Sara Khan,East,Laptop Stand,Electronics,1,1299,1299
+1013,2026-02-07,Deepak Verma,North,Notebook Pack,Stationery,20,120,2400
+1014,2026-02-10,Meera Iyer,West,Bluetooth Speaker,Electronics,3,2199,6597
+1015,2026-02-14,Anita Rao,South,Desk Lamp,Furniture,1,899,899
+1016,2026-02-18,Priya Nair,South,Laptop Stand,Electronics,2,1299,2598
+1017,2026-02-20,Vikram Shah,West,Office Chair,Furniture,2,5499,10998
+1018,2026-02-24,Rahul Mehta,North,Bluetooth Speaker,Electronics,1,2199,2199
+1019,2026-02-27,Sara Khan,East,Notebook Pack,Stationery,8,120,960
+1020,2026-03-02,Deepak Verma,North,Wireless Mouse,Electronics,4,799,3196

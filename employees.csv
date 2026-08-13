@@ -1,0 +1,14 @@
+employee_id,full_name,department,job_title,hire_date,location,salary_inr,manager_id
+E001,Arjun Kapoor,Engineering,Software Engineer,2022-03-14,Bengaluru,1200000,E010
+E002,Neha Sharma,Engineering,Senior Software Engineer,2020-07-01,Bengaluru,1900000,E010
+E003,Kabir Singh,Sales,Sales Executive,2023-01-10,Mumbai,850000,E011
+E004,Ishita Roy,Marketing,Marketing Analyst,2021-11-05,Delhi,950000,E012
+E005,Farhan Ali,Engineering,DevOps Engineer,2019-05-20,Bengaluru,1750000,E010
+E006,Tanya Malhotra,HR,HR Manager,2018-09-15,Pune,1600000,E013
+E007,Rohan Gupta,Sales,Sales Manager,2017-02-01,Mumbai,2100000,E011
+E008,Divya Menon,Engineering,QA Engineer,2022-08-19,Hyderabad,1100000,E010
+E009,Aditya Joshi,Marketing,Content Strategist,2023-04-03,Delhi,900000,E012
+E010,Sanjay Kumar,Engineering,Engineering Director,2015-06-01,Bengaluru,3200000,
+E011,Ritu Bhatia,Sales,Sales Director,2014-10-12,Mumbai,3100000,
+E012,Karan Chawla,Marketing,Marketing Director,2016-01-25,Delhi,3000000,
+E013,Pooja Desai,HR,HR Director,2015-03-30,Pune,2900000,
